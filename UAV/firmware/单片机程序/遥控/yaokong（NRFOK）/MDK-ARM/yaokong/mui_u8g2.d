@@ -1,0 +1,10 @@
+yaokong\mui_u8g2.o: ..\Core\U8G2\mui_u8g2.c
+yaokong\mui_u8g2.o: ..\Core\U8G2\mui.h
+yaokong\mui_u8g2.o: D:\software\Keil\keil\ARM\ARMCC\Bin\..\include\stddef.h
+yaokong\mui_u8g2.o: D:\software\Keil\keil\ARM\ARMCC\Bin\..\include\stdint.h
+yaokong\mui_u8g2.o: D:\software\Keil\keil\ARM\ARMCC\Bin\..\include\string.h
+yaokong\mui_u8g2.o: ..\Core\U8G2\u8g2.h
+yaokong\mui_u8g2.o: ..\Core\U8G2\u8x8.h
+yaokong\mui_u8g2.o: D:\software\Keil\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+yaokong\mui_u8g2.o: D:\software\Keil\keil\ARM\ARMCC\Bin\..\include\limits.h
+yaokong\mui_u8g2.o: ..\Core\U8G2\mui_u8g2.h

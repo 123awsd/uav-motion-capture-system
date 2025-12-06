@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "imu.h": "c",
+        "mpu6050.h": "c"
+    }
+}
